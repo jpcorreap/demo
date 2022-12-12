@@ -1,0 +1,168 @@
+{
+    "images":
+    {
+		"mainbuttons":
+        {
+            "image" : "test:textures/buttonsBackground.png",
+            "posX" : 40,
+            "posY" : -30,
+            "width" : 140,
+            "height" : 100,
+            "alignment" : "left_center"
+        }
+		
+    },
+    
+    "buttons":
+    {
+        "refresh":
+        {
+            "text" : " ",
+            "posX" : -20,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+            "texture" : "custommainmenu:textures/gui/buttons.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        },
+		"singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : 50,
+            "posY" : -20,
+            "width" : 120,
+            "height" : 20,
+			"alignment" : "left_center",
+			"texture" : "test:textures/buttonBlue.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 50,
+            "posY" : 0,
+            "width" : 120,
+            "height" : 20,
+			"alignment" : "left_center",
+			"texture" : "test:textures/buttonBlue.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },        
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : 50,
+            "posY" : 20,
+            "width" : 120,
+            "height" : 20,
+			"alignment" : "left_center",
+			"texture" : "test:textures/buttonBlue.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : 50,
+            "posY" : 40,
+            "width" : 120,
+            "height" : 20,
+			"alignment" : "left_center",
+			"texture" : "test:textures/buttonBlue.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+		"bugtracker": 
+		{
+            "text": "Bug Reporter",
+            "posX": 10,
+            "posY": 5,
+            "width": 80,
+            "height": 20,
+            "alignment": "top_left",
+			"texture" : "test:textures/buttonBlue.png",
+            "tooltip": "Report a bug!",
+            "action": {
+                "type": "openLink",
+                "link": "https://github.com/MJRLegends/Space-Astronomy-2-Feedback-/issues"
+            }
+		},
+		
+		"changelog": 
+		{
+            "text": "Changelog",
+            "posX": 90,
+            "posY": 5,
+            "width": 80,
+            "height": 20,
+            "alignment": "top_left",
+			"texture" : "test:textures/buttonBlue.png",
+			"tooltip": "View Changelog!",
+            "action": {
+                "type": "openLink",
+                "link": "https://pastebin.com/sT3e0wLd"
+            }
+		},
+		"sevrerfiles": 
+		{
+            "text": "Server Files",
+            "posX": 170,
+            "posY": 5,
+            "width": 80,
+            "height": 20,
+            "alignment": "top_left",
+			"texture" : "test:textures/buttonBlue.png",
+			"tooltip": "Get Server Files!",
+            "action": {
+                "type": "openLink",
+                "link": "https://minecraft.curseforge.com/projects/space-astronomy-2"
+            }
+		}
+    },
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "modpackversion":
+        {
+            "text" : "Mod Pack Version - V1.5.7",
+            "posX" : 2,
+            "posY" : -10,
+            "color" : -2,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "background":
+        {
+			"image" : "test:textures/Space Astronomy 2 Background.png",
+			"mode" : stretch
+        }
+    }
+}

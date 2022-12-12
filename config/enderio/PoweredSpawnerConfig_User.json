@@ -1,0 +1,38 @@
+{
+
+  // New entities are added, one already in _Core will have their values replaced with those in this file
+  "costMultiplier": {
+  },
+
+  // Adding a blackList section will completely replace the one in the core file.
+  "blackList": [
+    "VillagerGolem",
+    "Villager",
+    "galacticraftplanets.juicer",
+    "galacticraftplanets.slimeling",
+    "galacticraftcore.evolved_skeleton",
+    "galacticraftcore.evolved_enderman",
+    "galacticraftcore.alien_villager",
+    "galacticraftcore.evolved_spider",
+    "galacticraftcore.evolved_creeper",
+    "galacticraftcore.evolved_witch",
+    "galacticraftplanets.sludgeling",
+    "galacticraftcore.evolved_skeleton_boss",
+    "galacticraftplanets.creeper_boss",
+    "galacticraftplanets.spider_queen",
+    "galacticraftcore.evolved_zombie",
+    "EnderDragon",
+    "Wither",
+    "Endermite",
+	"extraplanets.EvolvedSpaceManBoss", 
+	"extraplanets.EvolvedIceSlimeBoss",
+	"extraplanets.EvolvedMagmaCubeBoss", 
+	"extraplanets.EvolvedSnowmanBoss", 
+	"extraplanets.EvolvedGiantZombieBoss,", 
+	"extraplanets.EvolvedFireBatBoss",
+	"extraplanets.EvolvedGhastBoss",
+	"cyberware.cyberzombie",
+	"openblocks.luggage",
+	"openblocks.mini_me"
+  ]
+}

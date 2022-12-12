@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <lines at="BOTTOMRIGHT">
+        <line>
+            <str>Day: §e{day}§f</str>
+        </line>
+	   <line>
+            <str>Time: §e{mctime12}§f</str>
+	   </line>
+	   <line>
+            <str>Height: §e{yeyei}§f</str>
+	   </line>
+	   <line>
+            <str>Light: </str>
+            <max>
+                <var>light</var>
+                <num>7.5</num>
+                <str>$e</str>
+                <str>$c</str>
+            </max>
+            <var>light</var>
+        </line>
+        <line>
+            <str>FPS: </str>
+            <op>
+                <str>gt</str>
+                <var>fps</var>
+                <num>60</num>
+                <num>45</num>
+                <num>30</num>
+                <num>15</num>
+                <num>0</num>
+                <str>$a</str>
+                <str>$e</str>
+                <str>$6</str>
+                <str>$c</str>
+                <str>$4</str>
+                <str/>
+            </op>
+            <var>fps</var>
+        </line>
+        <line>
+            <str>Entities: $e{entitiesrendered}$f / $e{entitiestotal}$f</str>
+        </line>
+    </lines>
+</config>

@@ -1,0 +1,257 @@
+====================== Welcome | to | Space Astronomy 2!|======================| | This book is designed| to help you along the way!| | -------------- | | This book has no direct order so checking out all pages is needed! | | | | | Made by MJRLegends::1
+======================::1
+Getting Started::1
+Read all the Books which you Gain when Starting the World::0
+Craft a Wooden Pickaxe (From Tinkers Construct)!::0
+Craft One of the Following Items Shovel, Axe, Sword (From Tinkers Construct)!::0
+Find a Way to Sleep::0
+Obtain 20 of Any Food::0
+Obtain 64 of Any Food::0
+Setup a Mining Area & Create Some Torches!::0
+Setup a Smeltery at Least with 3 Layers::0
+Break a Chance Cube::0
+::1
+::1
+Traveling Around::1
+Visit The Nether!::0
+Visit The Mining World!::0
+Visit The Deep Dark!::0
+Visit The End!::0
+Visit The Underworld! (Dimension from LightingCraft)::0
+Use a Form of Flight to Travel Around::0
+Use a Form of Powered Flight to Travel Around::0
+Explore the End Cities & Obtain a Elytra::0
+Locate and Loot a Village::0
+Locate and Loot a Jungle Temple::0
+Locate and Loot a Desert Temple::0
+Locate and Loot a Ocean Monument::0
+Locate and Loot a Stronghold::0
+Locate at Least one End Portal::0
+::1
+::1
+::1
+::1
+Construction Work::1
+Build a Small Base!::0
+Build a Medium Base (At least 4 Chunks of Area Used)!::0
+Use Blocks from the Chisel Mod in a Build::0
+Use a Wand to Help You Build (From Better Builder Wands)::0
+Use a Exchanger to Help You Replace/Change Blocks (From Exchangers Mod)::0
+Use LittleTiles or Chisel & Bits to Make Smaller Blocks/Covers/Nooks/Planels/Bits::0
+Design & Build a Space Station with a Y Height of 60::0
+Design & Build a Space Station on at Least 2 Planets::0
+Design & Build a Base on each Planet::0
+Craft & Build a Space Air lock using a Dual Air Lock Design::0
+Preparing for the Universe::1
+Process Canola in to at least one Bucket of Canola Oil::0
+Process 1 Bucket of Canola Oil in to Oil::0
+Collect Oil & Create Rocket Fuel (Galacticraft Fuel)::0
+Create Tier 1 Thermal Armour::0
+Create Tier 2 Thermal Armour::0
+Create Tier 3 Thermal Armour::0
+Create Tier 4 Thermal Armour::0
+Create Tier 5 Thermal Armour::0
+Build and Use Each Tier of Space Suits::0
+Build a Stable Oxygen Filling Setup in the Overworld::0
+Fill at least 2 Heavy Oxygen Tanks with Oxygen::0
+Building Rockets::1
+Build a Tier 1 Rocket::0
+Build a Tier 2 Rocket::0
+Build a Tier 3 Rocket::0
+Build a Tier 4 Rocket::0
+Build a Tier 5 Rocket::0
+Build a Tier 6 Rocket::0
+Build a Tier 7 Rocket::0
+Build a Tier 8 Rocket::0
+Build a Tier 9 Rocket::0
+Build a Tier 10 Rocket::0
+Build a Tier 10 Electric Rocket::0
+::1
+::1
+Exploring the Universe::1
+Visit the Planet Mercury::0
+Visit the Moon::0
+Visit the Planet Venus::0
+Visit the Planet Mars::0
+Visit the Asteroids::0
+Visit the Planet Ceres::0
+Visit the Planet Jupiter::0
+Visit the Planet Saturn::0
+Visit the Planet Uranus::0
+Visit the Planet Neptune::0
+Visit the Planet Pluto::0
+Visit the Planet Eris::0
+Visit the Planet Kepler22b::0
+Visit the All the Moons::0
+Defeat all of the Dungeon Bosses::0
+Collect all 15 NASA Workbench Schematics::0
+Trade at Least one Schematic with the Aliens on the Moon::0
+Use the Deconstructor to Break Down Unused Rockets::0
+::1
+Surviving & Living Out in the Universe::1
+Build & Travel 500 Blocks in a Moon Buggy::0
+Build & Travel 500 Blocks in a Venus Rover::0
+Build & Travel 500 Blocks in a Mars Rover::0
+Use the Spin Thrusters to Make Artificial Gravity on Space Stations::0
+Trade at least 64 Lunar Sapphire's with an Alien Villager::0
+Travel around the Asteroids using a Grapple from Galacticraft::0
+Use at Least 1 Oxygen Sealer to seal a base outside of the Overworld::0
+Use Sleeping at Least 4 times to Reduce Your Radiation::0
+Use Decontamination Unit at Least 4 times to Reduce Your Radiation::0
+Create at Least one Anti-Rad Drink to Reduce Your Radiation::0
+Fully Automate the Production of Creating Anti-Rad Drinks::0
+Use Anti-Rad Drinks at Least 2 times to Reduce Your Radiation::0
+::1
+::1
+::1
+Basic Power Systems::1
+Produce 500 RF/t::0
+Produce 1k RF/t::0
+Create a Stable Storage of 10K RF/t::0
+Create a Stable Supply of Power::0
+::1
+::1
+Advanced Power Systems::1
+Create a Passively cooled Reactor from the Extreme Reactors::0
+Create a Actively cooled Reactor from the Extreme Reactors::0
+Create a Turbine from the Extreme Reactors::0
+Create a Fusion Reactor, with a Stable Fuel Source::0
+Produce 10k RF/t::0
+Produce 100k RF/t::0
+Produce 1 million RF/t::0
+Produce 10 million RF/t::0
+Create a Stable Storage of 100K RF/t::0
+Create a Stable Storage of 1 Million RF/t::0
+Create a Stable Storage of 50 Million RF/t::0
+Use a Type of Wireless Power Transfer::0
+Renewable Technology::1
+Make the Switch to Fully using Renewable Power Sources::0
+Use At Least One Following For Power Generation, Wind Generators/Mills, Solar Panels, Water Wheel/Mills::0
+Use All of the Following For Power Generation, Wind Generators/Mills, Solar Panels, Water Wheel/Mills::0
+Basic Processing Technology::1
+Use Machines to 2x Your Ores::0
+Create a Automated Ore Processing System::0
+Automate Mining using a Powered Based Quarry (RFTools Builder is a good one)::0
+::1
+::1
+Advanced Processing Technology::1
+Process & Store up 250K of each of the following Ingots: Iron, Gold, Silver, Tin, Steel, Uranium, Lead, Bronze, Copper, Aluminium, Nickel and All of the Galacticraft & ExtraPlanets Ingots::0
+Process & Store up 500K of each of the following Ingots: Iron, Gold, Silver, Tin, Steel, Uranium, Lead, Bronze, Copper, Aluminium, Nickel and All of the Galacticraft & ExtraPlanets Ingots::0
+Use Machines to 3x Your Ores::0
+Use Machines to 4x Your Ores::0
+Use Machines to 5x Your Ores::0
+::1
+::1
+::1
+::1
+::1
+Item/Fluid Storage Technology::1
+Create a Basic Refined Storage System with At Least 2 Item Storage Disks::0
+Upgrade Your Refined Storage System to Hold Up to 16 of Any Item Storage Disks::0
+Upgrade Your Refined Storage System to Hold Up to 24 of All 64K Item Storage Disks::0
+Upgrade Your Refined Storage System to Store Liquids/Fluids::0
+Upgrade Your Refined Storage System to Hold Up to 12 of All 64K Fluid Storage Disks::0
+Hook up an External Item Storage to Your Refined Storage System::0
+Create a Automated Crafting System using Refined Storage::0
+::1
+::1
+::1
+Slaughter Technology::1
+Create a Basic Mob Grider/Slaughterhouse (With at Least 1 Spawner)::0
+Create a Advanced Mob Grider/Slaughterhouse (With at Least 5 Spawners)::0
+::1
+::1
+::1
+StarLight Technology::1
+Locate & Loot at Least one Astral Sorcery Structure::0
+Store Some Constellation Papers in the Astral Sorcery Journal::0
+Build a Resonating Wand & Use it to Find Materials Underground::0
+Build a Luminous Crafting Table::0
+Use the Light Well to Collect SkyLight::0
+Use Either a Aqua Marine or a Rock Crystal in a Light Well to Gather Liquid Starlight::0
+Use a Resonating Wand to Craft a Item or Block::0
+Build a Sky Wave Resonator & Use it to Find High Amounts of SkyLight Areas::0
+Use the Grindstone to Grind Rock Crystals or/and Tools::0
+Upgrade the Luminous Crafting Table to a StarLight Crafting Altar & Constuct the StarLight Crafting Altar Structure::0
+Use the Hand Telescope to Find/Mark Constellations with the Help of Constellation Papers::0
+Build a Linking Tool & To Make Starmetal Ore::0
+Use the Grindstone to Get Stardust::0
+Upgrade the StarLight Crafting Altar to a Celestial Altar & Constuct the Celestial Altar Structure::0
+Use Liquid Starlight to Transform an Aqua Marine to a Resonating Gem::0
+Use Liquid Starlight to Increase the Size Property of a Rock Crystal::0
+Use the Telescope to Find More Constellations::0
+Craft & Use a Tree Beacon to Get Drops from Trees as If you Was Cropping Them Down::0
+Craft a Cave Illuminator & Use it to Generate Light Sources in Dark Areas of Caves::0
+Build a Formation Wand & Use it to Build/Place Blocks::0
+Build a Conversion Wand & Use it to Replace/Switch out Blocks::0
+Craft a Ritual Pedestal & Constuct the Ritual Pedestal Structure::0
+Craft a Attunement Altar & Constuct the Attunement Altar Structure::0
+Craft a StarLight Infuser & Constuct the StarLight Infuser Structure::0
+Use the StarLight Infuser to Infuser at At Least 6 Different Transformations (See JEI for Recipes)::0
+Build a Illumination Wand & Use it to Place Light Soruces::0
+Use a Constellation Paper to Place Spectral Relays on to the Attunement Altar, Where shown by the Constellation Paper::0
+Throw a Rock Crystal on the Attunement Altar, When the Constellation has been Aligned to Make an Attuned Rock Crystal::0
+Use the Attunement Altar to Attune Yourself::0
+Use the Perks Section in the Journal to Activate Perks::0
+Unlock the Exploration Section in the Astral Sorcery Journal::0
+Unlock the Constellation Section in the Astral Sorcery Journal::0
+Unlock the Attunment Section in the Astral Sorcery Journal::0
+Complete all Tasks in the Exploration, Constellation, Attunement Sections in the Astral Sorcery Journal::0
+::1
+::1
+::1
+::1
+::1
+Rockhounding Chemistry Technology::1
+Use Lab Blenders to Create the Following Materials: Sodium Chloride Compost, Sulfur-Bearing Compost, Carbon Compost::0
+Use a Mineral Sizer to Process Uninspected Mineral Ore to Get the Different Gangue Resources::0
+Use a Mineral Sizer to Process Granite to Make Flurorite Shards::0
+Use a Lab Blender to Process the Flurorite Shards into Flurorite-Bearing Compost::0
+Use a Lab Oven to Process Sulfur-Bearing Compost into Sulfuric Acid::0
+Use a Lab Oven to Process Sodium Chloride Compost & Sulfuric Acid into Hydrochloric Acid::0
+Use a Lab Oven to Process Flurorite-Bearing Compost & Sulfuric Acid into Hydrofluoric Acid::0
+Use a Leaching Vat to Process the Different Gangue Resources into Their Set Shards::0
+Use a Lab Oven to Process Flurorite-Bearing Compost & Sulfuric Acid & Water into Phosphoric Acid::0
+Use a Lab Oven to Process Carbon Compost & Water into Syngas::0
+Use a Lab Oven to Process Sodium Chloride Compost & Sulfuric Acid & Syngas into Chloromethane::0
+Build a Cryogenic Distillation Plant & Use it to Create Liquid Nitrogen using Chloromethane as The Heat Exchanger Coolant::0
+Use a Casting Bench to Process Iron Ingots into Ferrous Catalyst Gauze::0
+Use a Lab Oven to Process Ferrous Catalyst Gauze & Liquid Nitrogen & Syngas into Ammonia::0
+Use a Lab Oven to Process Sodium Chloride Compost & Ammonia & Syngas into Sodium Cyanide::0
+Use a Casting Bench to Process Platinum Ingots into Platinum Catalyst Gauze::0
+Use a Lab Oven to Process Platinum Catalyst Gauze & Ammonia & Water into Nitric Acid::0
+Use a Chemical Extractor to Procress Shards & Sodium Cyanide & Nitric Acid & Phosphoric Acid into Dusts::0
+::1
+::1
+Farming Technology::1
+Make a Manual Farm Which Bigger Than 6 x 6::0
+Make a Automated Farm Which Bigger than 6 x 6 But Less Than 16 x 16::0
+Make a Automated Farm Which Bigger than 16 x 16::0
+Use Mystical Agriculture to Grow Materials::0
+Plant & Grow a Tier 1 seed from Mystical Agriculture::0
+Plant & Grow a Tier 2 seed from Mystical Agriculture::0
+Plant & Grow a Tier 3 seed from Mystical Agriculture::0
+Plant & Grow a Tier 4 seed from Mystical Agriculture::0
+Plant & Grow a Tier 5 seed from Mystical Agriculture::0
+Collect at least 64 of each Essence Type from Mystical Agriculture::0
+Setup an 8 x 8 Area, For Each of the Seeds from Mystical Agriculture::0
+Planet & Grow One of Every Crop in Pam's HarvestCraft::0
+::1
+::1
+::1
+Alien Technology::1
+Use Genetics Reborn to Give Yourself Part of an Animals DNA::0
+Use Genetics Reborn to Give Yourself All Available Animals DNA::0
+Create and Use a SG Craft Stargate Portal::0
+Setup at Least 5 Destinations to Travel with the Stargate Portal::0
+::1
+Robotic Technology::1
+Kill Cyber Zombies and Collect at least one Robotic Part::0
+Find a Robosurgeon Machine in a Nether Forness Loot::0
+Apply at least 2 Robotic Part to Yourself using the Robosurgeon/Surgery Chamber::0
+Use the Cyberware Scanner to Scan Robotic Parts & Obtain 1 Blueprint of a Robotic Parts::0
+Use the Cyberware Engineering Table to Void Warranty on a Robotic Parts::0
+::1
+======================::1
+End of Achievements::1
+======================::1
